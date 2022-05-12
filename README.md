@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Login as Customer Extension</h2>
+				<h1>Magento 2 Login as Customer Extension</h1>
 				<p>By using <strong><a href="https://www.mageants.com/login-as-customer-for-magento-2.html">Magento 2 Login as Customer Extension</a></strong>  gets effective help from the admin as they can log in their accounts to solve the account-related problems and issues without changing any type of user credentials.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Admin is allowed to log in easily and quickly as a customer.</li>
 						<li>The store owner is allowed to rack and record the attempts of customers' login.</li>
